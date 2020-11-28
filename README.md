@@ -19,6 +19,7 @@ To use this code, please do:
   
 2. To run the code, please run:
     ```Shell
+    cd Water-Table-Depth-Prediction
     python3 train.py
     ```
 
