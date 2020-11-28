@@ -1,4 +1,6 @@
 # Water-Table-Depth-Prediction-Pytorch
+![Python](https://img.shields.io/badge/LICENSE-MIT-blue?logo=appveyor&style=for-the-badge)
+![Python](https://img.shields.io/badge/built--with-Python-green?logo=appveyor&style=for-the-badge)
 
 ### Requirements
 ```
